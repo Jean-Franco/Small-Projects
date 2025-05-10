@@ -1,0 +1,4 @@
+This is a Secret Message Decoder which consist on extract data from a Google Docs, which will contain a table with characters and its coordinates X and Y
+
+What this script does is it first parse the HTML code from the Google Docs url and it will look for a table. From this table it will extract their cells and 
+work through them. After processing the characters and its coordinates, it will print the final message.
